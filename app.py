@@ -20,13 +20,7 @@ except:
     pass
 
 st.subheader("Barbie y las 3 mosqueteras")
-st.write('Había una vez una joven llamada Corinne que soñaba con algo que nadie esperaba: quería ser mosquetera, igual que su padre. Aunque muchos le decían que eso no era para chicas, ella no dejó que apagaran su sueño y viajó hasta París con el corazón lleno de esperanza.
-
-Al llegar al palacio, no la aceptaron como mosquetera y terminó trabajando como sirvienta. Pero el destino tenía otros planes. Allí conoció a tres chicas valientes y muy diferentes entre sí. Una era ágil como el viento, otra fuerte como un roble y otra tan inteligente que siempre encontraba la solución perfecta. Juntas descubrieron que compartían el mismo deseo: proteger al reino.
-
-Por las noches entrenaban en secreto, practicando con espadas y aprendiendo a confiar unas en otras. Y justo a tiempo, descubrieron un plan malvado contra el príncipe. Sin dudarlo, las cuatro amigas unieron fuerzas y, con valentía y trabajo en equipo, lograron salvar el día.
-
-Desde entonces, demostraron que el coraje no depende de quién seas, sino de lo que llevas en el corazón. Y así, Corinne y sus amigas se convirtieron en las mosqueteras más valientes del reino.'
+st.write('Había una vez una joven llamada Corinne que soñaba con algo que nadie esperaba: quería ser mosquetera, igual que su padre. Aunque muchos le decían que eso no era para chicas, ella no dejó que apagaran su sueño y viajó hasta París con el corazón lleno de esperanza. Al llegar al palacio, no la aceptaron como mosquetera y terminó trabajando como sirvienta. Pero el destino tenía otros planes. Allí conoció a tres chicas valientes y muy diferentes entre sí. Una era ágil como el viento, otra fuerte como un roble y otra tan inteligente que siempre encontraba la solución perfecta. Juntas descubrieron que compartían el mismo deseo: proteger al reino. Por las noches entrenaban en secreto, practicando con espadas y aprendiendo a confiar unas en otras. Y justo a tiempo, descubrieron un plan malvado contra el príncipe. Sin dudarlo, las cuatro amigas unieron fuerzas y, con valentía y trabajo en equipo, lograron salvar el día. Desde entonces, demostraron que el coraje no depende de quién seas, sino de lo que llevas en el corazón. Y así, Corinne y sus amigas se convirtieron en las mosqueteras más valientes del reino.'
         
         )
            
