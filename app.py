@@ -7,7 +7,7 @@ from gtts import gTTS
 from PIL import Image
 import base64
 
-st.title("Conversión de Texto a Audio")
+st.title("Audio Libro Para niños")
 image = Image.open('gato_raton.png')
 st.image(image, width=350)
 with st.sidebar:
@@ -19,13 +19,12 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
-st.write('¡Ay! -dijo el ratón-. El mundo se hace cada día más pequeño. Al principio era tan grande que le tenía miedo. '  
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
-         ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
-         ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
-         '  '
-         ' Franz Kafka.'
+st.subheader("Barbie y las 3 mosqueteras")
+st.write('Cuenta la historia de Corinne, una joven que sueña con convertirse en mosquetera, aunque en su época solo los hombres podían serlo.
+
+Viaja a París decidida a cumplir su sueño, pero al llegar al palacio solo le ofrecen trabajo como sirvienta. Allí conoce a tres chicas valientes que también tienen habilidades especiales. Juntas entrenan en secreto con espadas y descubren un plan para traicionar al príncipe.
+
+Unidas por la amistad y el coraje, las cuatro trabajan en equipo para salvar el reino. Al final demuestran que la valentía no depende de ser príncipe o princesa… sino de luchar por lo que uno cree.'
         
         )
            
