@@ -8,7 +8,7 @@ from PIL import Image
 import base64
 
 st.title("Audio Libro Para niños")
-image = Image.open('Barbie y las 3 mosqueteras.png')
+image = Image.open("Barbie y las 3 mosqueteras.png")
 st.image(image, width=350)
 with st.sidebar:
     st.subheader("Esrcibe y/o selecciona texto para ser escuchado.")
