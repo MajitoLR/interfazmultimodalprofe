@@ -20,11 +20,17 @@ except:
     pass
 
 st.subheader("Barbie y las 3 mosqueteras")
-st.write('Cuenta la historia de Corinne, una joven que sueña con convertirse en mosquetera, aunque en su época solo los hombres podían serlo. Viaja a París decidida a cumplir su sueño, pero al llegar al palacio solo le ofrecen trabajo como sirvienta. Allí conoce a tres chicas valientes que también tienen habilidades especiales. Juntas entrenan en secreto con espadas y descubren un plan para traicionar al príncipe. Unidas por la amistad y el coraje, las cuatro trabajan en equipo para salvar el reino. Al final demuestran que la valentía no depende de ser príncipe o princesa… sino de luchar por lo que uno cree.'
+st.write('Había una vez una joven llamada Corinne que soñaba con algo que nadie esperaba: quería ser mosquetera, igual que su padre. Aunque muchos le decían que eso no era para chicas, ella no dejó que apagaran su sueño y viajó hasta París con el corazón lleno de esperanza.
+
+Al llegar al palacio, no la aceptaron como mosquetera y terminó trabajando como sirvienta. Pero el destino tenía otros planes. Allí conoció a tres chicas valientes y muy diferentes entre sí. Una era ágil como el viento, otra fuerte como un roble y otra tan inteligente que siempre encontraba la solución perfecta. Juntas descubrieron que compartían el mismo deseo: proteger al reino.
+
+Por las noches entrenaban en secreto, practicando con espadas y aprendiendo a confiar unas en otras. Y justo a tiempo, descubrieron un plan malvado contra el príncipe. Sin dudarlo, las cuatro amigas unieron fuerzas y, con valentía y trabajo en equipo, lograron salvar el día.
+
+Desde entonces, demostraron que el coraje no depende de quién seas, sino de lo que llevas en el corazón. Y así, Corinne y sus amigas se convirtieron en las mosqueteras más valientes del reino.'
         
         )
            
-st.markdown(f"Quieres escucharlo?, copia el texto")
+st.markdown(f"Quieres escucharlo?, copia el texto y pégalo aquí abajo")
 text = st.text_area("Ingrese El texto a escuchar.")
 
 tld='com'
