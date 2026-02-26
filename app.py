@@ -20,11 +20,7 @@ except:
     pass
 
 st.subheader("Barbie y las 3 mosqueteras")
-st.write('Cuenta la historia de Corinne, una joven que sueña con convertirse en mosquetera, aunque en su época solo los hombres podían serlo.
-
-Viaja a París decidida a cumplir su sueño, pero al llegar al palacio solo le ofrecen trabajo como sirvienta. Allí conoce a tres chicas valientes que también tienen habilidades especiales. Juntas entrenan en secreto con espadas y descubren un plan para traicionar al príncipe.
-
-Unidas por la amistad y el coraje, las cuatro trabajan en equipo para salvar el reino. Al final demuestran que la valentía no depende de ser príncipe o princesa… sino de luchar por lo que uno cree.'
+st.write('Cuenta la historia de Corinne, una joven que sueña con convertirse en mosquetera, aunque en su época solo los hombres podían serlo. Viaja a París decidida a cumplir su sueño, pero al llegar al palacio solo le ofrecen trabajo como sirvienta. Allí conoce a tres chicas valientes que también tienen habilidades especiales. Juntas entrenan en secreto con espadas y descubren un plan para traicionar al príncipe. Unidas por la amistad y el coraje, las cuatro trabajan en equipo para salvar el reino. Al final demuestran que la valentía no depende de ser príncipe o princesa… sino de luchar por lo que uno cree.'
         
         )
            
